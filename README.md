@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hi, I'm <Sicelo Kayisa>! 👋
+# Hi, I'm <SiceloKayisa>! 👋
 
 I'm an aspiring data scientist currently learning and building my knowledge to improve my data science skills. I am also building some projects so that I can enhance my skills. 
 
