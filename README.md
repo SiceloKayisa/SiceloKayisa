@@ -2,7 +2,7 @@
 
 I'm an aspiring data scientist currently learning and building my knowledge to improve my data science skills. I am also building some projects so that I can enhance my skills. 
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 🚀 About Me
 
