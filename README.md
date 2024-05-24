@@ -33,7 +33,7 @@
  - 🚀  __Data Science and Machine Learning__ 
      - Python Programming Fundamentals
      - Getting comfortable with IDE enviroments: Jupyter and Pycharm
-     - Data Analysis and Visualization using libraries such pandas, matplotlib, seaborn and plotly.
+     - Data Analysis and Visualization using libraries such Pandas, Matplotlib, Seaborn and Plotly.
      - Retrieving and Performing queries using SQL Programming Language
      - Data Preprocessing
      - Machine Learning Algorithms
