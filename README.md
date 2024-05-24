@@ -27,7 +27,7 @@
   - Getting used data visualisation tools such as RStudio and Tableau
  
  - 🚀  Data Science and Machine Learning  
-  - Python Programming Fundamentals
+     - Python Programming Fundamentals
   - Getting comfortable with IDE enviroments: Jupyter and Pycharm
   - Data Analysis and Visualization using libraries such pandas, matplotlib, seaborn and plotly.
   - Retrieving and Performing queries using SQL Programming Language
