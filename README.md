@@ -26,7 +26,7 @@
   - Performing queries so as to retrieve data from databases
   - Getting used data visualisation tools such as RStudio and Tableau
  
-- 🚀  Projects
+##  - 🚀  Projects
   
 
  ## 🏆 Achievements
