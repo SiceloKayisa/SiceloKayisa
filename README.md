@@ -1,12 +1,13 @@
 # Hi, I'm Sicelo Kayisa! 👋
 
-I'm an aspiring data scientist currently learning and building my knowledge to improve my data science skills. I am also building some projects so that I can enhance my skills. 
+ An aspiring data scientist with a passion for uncovering insights from data and creating models to help prepare for the future.
 
+ 
 
 
 ## 🚀 About Me
 
-- 🔭 I'm a hard working young man who is passionate about learning and always looking for new opportunities to improve myself
+- 🔭 I'm a hard working young man who is passionate about learning and always looking for new opportunities to improve himself
 - 🔭 I'm currently pursuing my bachelors degree in Mathematical Statistics at the University of Pretoria.
 
 
@@ -28,7 +29,7 @@ I'm an aspiring data scientist currently learning and building my knowledge to i
  ## 🏆 Achievements
 
 - 🌟 I have completed my Data Analysis Certification with Python from FreeCodeCamp and I also got the opportunity to create some few projects
-- 🌟 I am currently as a scholar for I4G Datacamp scholarship and I am enrolled under the Data Scientist with Python career track and I have completed 3 courses and 1 project so far.
+- 🌟 I am currently a scholar for I4G Datacamp scholarship and I am enrolled under the Data Scientist with Python career track.
   
 
 
