@@ -26,6 +26,10 @@
   - Performing queries so as to retrieve data from databases
   - Getting used data visualisation tools such as RStudio and Tableau <br>
 
+
+
+  
+
  - 🚀  Data Science and Machine Learning  
      - Python Programming Fundamentals
      - Getting comfortable with IDE enviroments: Jupyter and Pycharm
@@ -34,7 +38,7 @@
      - Data Preprocessing
      - Machine Learning Algorithms
      - Tuning the model parameters and improving its performance.
-     - Learning how to deploy a machine learning model into production using tools such Streamlit and Flask
+     - Learning how to deploy a machine learning model into production using tools such as Streamlit and Flask
 
 ##  🚀  Projects
   
