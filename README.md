@@ -1,6 +1,6 @@
 # Hi, I'm Sicelo Kayisa! 👋
 
- An aspiring data scientist with a passion for uncovering insights from data and creating models to help prepare for the future.
+ An aspiring Data Scientist with a passion for uncovering insights from data and creating models to help prepare for the future.
 
  
 
