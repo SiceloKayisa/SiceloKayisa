@@ -26,6 +26,16 @@
   - Performing queries so as to retrieve data from databases
   - Getting used data visualisation tools such as RStudio and Tableau
  
+ - 🚀  Data Science and Machine Learning  
+  - Python Programming Fundamentals
+  - Getting comfortable with IDE enviroments: Jupyter and Pycharm
+  - Data Analysis and Visualization using libraries such pandas, matplotlib, seaborn and plotly.
+  - Retrieving and Performing queries using SQL Programming Language
+  - Data Preprocessing
+  - Machine Learning Algorithms
+  - Tuning the model parameters and improving its performance.
+  - Learning how to deploy a machine learning model into production using tools such Streamlit and Flask
+
 ##  🚀  Projects
   
 
