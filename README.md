@@ -25,6 +25,9 @@
   - Using spreadsheets in order to transform data to valuable information that can be used to solve business cases
   - Performing queries so as to retrieve data from databases
   - Getting used data visualisation tools such as RStudio and Tableau
+ 
+- 🚀  Projects
+  
 
  ## 🏆 Achievements
 
