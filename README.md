@@ -24,8 +24,8 @@
   - Learning how to use data in order to analyse and solve business tasks
   - Using spreadsheets in order to transform data to valuable information that can be used to solve business cases
   - Performing queries so as to retrieve data from databases
-  - Getting used data visualisation tools such as RStudio and Tableau
-<br>
+  - Getting used data visualisation tools such as RStudio and Tableau <br>
+
  - 🚀  Data Science and Machine Learning  
      - Python Programming Fundamentals
      - Getting comfortable with IDE enviroments: Jupyter and Pycharm
