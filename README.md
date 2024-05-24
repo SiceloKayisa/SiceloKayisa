@@ -17,7 +17,7 @@
 
 ## 🌱 Currently Learning and Exploring
 
-- 🚀  Data Analytics 
+- 🚀  __Data Analytics__ 
   - Understanding the power of data and its impact in the real world
   - Learning How to derive insights from data and make data driven decisions
   - Diving into the data analysis process and applying it to the real world cases
