@@ -17,12 +17,12 @@
 
 ## 🌱 Currently Learning and Exploring
 
-- 🚀 Learning Data Analytics 
-  - Exploring data analytics 
+- 🚀  Data Analytics 
   - Understanding the power of data and its impact in the real world
+  - Learning How to derive insights from data and make data driven decisions
   - Diving into the data analysis process and applying it to the real world cases
   - Learning how to use data in order to analyse and solve business tasks
-  - Using spreadsheets in order to transform data to valuable information
+  - Using spreadsheets in order to transform data to valuable information that can be used to solve business cases
   - Performing queries so as to retrieve data from databases
   - Getting used data visualisation tools such as RStudio and Tableau
 
