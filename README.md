@@ -24,7 +24,7 @@
   - Using data in order to analyse and solve business tasks
   - Using spreadsheets such as Excel and Google Sheets in order to transform data to valuable information that can be used to solve business cases
   - Performing queries so as to retrieve data from databases
-  - Getting used data visualisation tools such as RStudio and Tableau <br>
+  - Getting used to data visualisation  tools such as RStudio and Tableau <br>
 
 
 
