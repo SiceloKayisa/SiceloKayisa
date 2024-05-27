@@ -1,4 +1,4 @@
-⁷# Hi, I'm Sicelo Kayisa! 👋
+# Hi, I'm Sicelo Kayisa! 👋
 
  An aspiring Data Scientist with a passion for uncovering insights from data and creating models to help businesses prepare for the future.
 
