@@ -21,8 +21,8 @@
   - Understanding the power of data and its impact in the real world
   - Learning How to derive insights from data and make data driven decisions
   - Diving into the data analysis process and applying it to the real world cases
-  - Learning how to use data in order to analyse and solve business tasks
-  - Using spreadsheets in order to transform data to valuable information that can be used to solve business cases
+  - Using data in order to analyse and solve business tasks
+  - Using spreadsheets such as Excel and Google Sheets in order to transform data to valuable information that can be used to solve business cases
   - Performing queries so as to retrieve data from databases
   - Getting used data visualisation tools such as RStudio and Tableau <br>
 
