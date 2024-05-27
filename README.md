@@ -1,4 +1,4 @@
-# Hi, I'm Sicelo Kayisa! 👋
+⁷# Hi, I'm Sicelo Kayisa! 👋
 
  An aspiring Data Scientist with a passion for uncovering insights from data and creating models to help businesses prepare for the future.
 
@@ -19,7 +19,7 @@
 
 - 🚀  __Data Analytics__ 
   - Understanding the power of data and its impact in the real world
-  - Learning How to derive insights from data and make data driven decisions
+  - Learning how to derive insights from data and make data driven decisions
   - Diving into the data analysis process and applying it to the real world cases
   - Using data in order to analyse and solve business tasks
   - Using spreadsheets such as Excel and Google Sheets in order to transform data to valuable information that can be used to solve business cases
