@@ -21,9 +21,9 @@
   - Understanding the power of data and its impact in the real world
   - Learning how to derive insights from data and make data driven decisions
   - Diving into the data analysis process and applying it to the real world cases
-  - Using data in order to analyse and solve business tasks
-  - Using spreadsheets such as Excel and Google Sheets in order to transform data to valuable information that can be used to solve business cases
-  - Performing queries so as to retrieve data from databases
+  - Cleaning data using spreadsheets and SQL queries.
+  - Using spreadsheet tools such as Pivot tables in order to transform data to valuable information for better analysis
+  - How to communicate analysis results through detailed Presentation
   - Getting used to data visualisation  tools such as RStudio and Tableau <br>
 
 
@@ -35,17 +35,20 @@
      - Getting comfortable with IDE enviroments: Jupyter and Pycharm
      - Data Analysis and Visualization using libraries such Pandas, Matplotlib, Seaborn and Plotly.
      - Retrieving and Performing queries using SQL Programming Language
-     - Data Preprocessing
-     - Machine Learning Algorithms
+     - Data Preprocessing and Machine Learning Algorithms
      - Tuning the model parameters and improving its performance.
      - Learning how to deploy a machine learning model into production using tools such as Streamlit and Flask
 
 ##  🚀  Projects
   
 
+
+ ## 🏆 Practical Experience
+
+ 
  ## 🏆 Achievements
 
-- 🌟 I have completed my Data Analysis Certification with Python from FreeCodeCamp and I also got the opportunity to create some few projects
+- 🌟 Completed my Data Analysis Certification with Python from FreeCodeCamp and I also got the opportunity to create some few projects
 - 🌟 I am currently a scholar for I4G Datacamp Scholarship and I am enrolled under the Data Scientist with Python career track.
   
 
