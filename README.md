@@ -19,7 +19,7 @@ While knowledge and skills are important, practical experience is also very impo
 
 
 
-## Technical Tools and Libraries
+## 📬 Technical Tools and Libraries
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,mysql,stackoverflow,git)](https://skillicons.dev)
 
 
