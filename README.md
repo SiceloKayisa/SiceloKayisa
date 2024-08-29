@@ -48,8 +48,7 @@
  
  ## 🏆 Achievements
 
-- 🌟 Completed my Data Analysis Certification with Python from FreeCodeCamp and I also got the opportunity to create some few projects
-- 🌟 I am currently a scholar for I4G Datacamp Scholarship and I am enrolled under the Data Scientist with Python career track.
+* [Google Data Analytics Professional Certificate!](https://github.com/SiceloKayisa/My-Certifications/blob/main/Google%20Data%20Analytics%20Professional%20Certificate.pdf)
   
 
 
