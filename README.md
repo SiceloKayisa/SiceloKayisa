@@ -45,6 +45,8 @@
 
  ## 🏆 Practical Experience
 
+ * [Data Visualization Internship By Excelerate](https://github.com/SiceloKayisa/Practical-Experience/tree/main/Data%20Visualization%20Internship%20by%20Excelerate)
+
  
  ## 🏆 Achievements
 
