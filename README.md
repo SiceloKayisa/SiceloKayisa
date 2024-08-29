@@ -7,13 +7,20 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm a hard working young man who is passionate about learning and always looking for new opportunities to improve himself
-- 🔭 I'm currently pursuing my bachelors degree in Mathematical Statistics at the University of Pretoria.
+I'm currently pursuing my Bachelors degree in Mathematical Statistics at the University of Pretoria.
+
+I'm fascinated by the potential of data science to uncover hiden patterns, predict trends and solve complex problems. I'm committed to continuous learning, staying up-to-date with industry trends, and exploring new tools and technologies.
+
+Through my University background I've developed a strong understanding of statistical modeling, data analysis and interpretation. I am eager to expand my knowledge and skills in the data analytics, programming, machine learning and data visualization to drive 
+business growth and informed decisions. To cement and strengthen my knowledge in these areas of data science I have also completed some online courses, scholarships and professional certificates.
+
+While knowledge and skills are important, practical experience is also very important. To close this gap I have participated in some internships and hackathons so to have idea and be exposed to real world projects. The other important part about was and is to improve skills such communication, team collaboration and meeting deadlines.
+
 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,mysql,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,mysql,stackoverflow,git)](https://skillicons.dev)
 
 ## 🌱 Currently Learning and Exploring
 
