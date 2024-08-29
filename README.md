@@ -35,7 +35,7 @@ While knowledge and skills are important, practical experience is also very impo
  
  ## 🏆 Achievements
 
-     #### Certifications
+   #### Certifications
 
 * [Google Data Analytics Professional Certificate](https://github.com/SiceloKayisa/My-Certifications/blob/main/Google%20Data%20Analytics%20Professional%20Certificate.pdf)
   
