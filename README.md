@@ -26,7 +26,7 @@ While knowledge and skills are important, practical experience is also very impo
 
 ##  🚀  Projects
  * [Store Sales and Profit Analysis using Python](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Store%20Sales%20And%20Profit%20Analysis%20with%20Python)
- * [Analysing Customer Churn for a Telecom Commany in Excel](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Analyzing%20Customer%20Churn%20in%20Excel)
+ * [Case Study: Customer Churn Analysis for a Telecom Commany in Excel](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Analyzing%20Customer%20Churn%20in%20Excel)
   
 
 
