@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm currently pursuing my Bachelors degree in Mathematical Statistics at the University of Pretoria.
+<span style="font-size:0.5em;">I'm currently pursuing my Bachelors degree in Mathematical Statistics at the University of Pretoria.</span>
 
 I'm fascinated by the potential of data science to uncover hidden patterns, predict trends and solve complex problems. I'm committed to continuous learning, staying up-to-date with industry trends, and exploring new tools and technologies.
 
