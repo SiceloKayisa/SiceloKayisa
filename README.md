@@ -32,6 +32,7 @@ While knowledge and skills are important, practical experience is also very impo
  * [Data Visualization Internship By Excelerate](https://github.com/SiceloKayisa/Practical-Experience/tree/main/Data%20Visualization%20Internship%20by%20Excelerate)
 
 ## 🚀 Scholarships
+* [I4G Datacamp Scholarship](https://github.com/SiceloKayisa/Scholarships-and-Awards/tree/main/I4G%20DataCamp%20Scholarship)
 
 
  ## 🏆 Achievements
