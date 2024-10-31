@@ -40,6 +40,7 @@ While knowledge and skills are important, practical experience is also very impo
    #### Certifications
 
 * [Google Data Analytics Professional Certificate](https://github.com/SiceloKayisa/My-Certifications/blob/main/Google%20Data%20Analytics%20Professional%20Certificate.pdf)
+* [Data Analytics Essentials](https://github.com/SiceloKayisa/My-Certifications/blob/main/Data_Analytics_Essentials_Badge.pdf)
   
 ## 📬 Technical Tools and Libraries
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,mysql,stackoverflow,git)](https://skillicons.dev)
