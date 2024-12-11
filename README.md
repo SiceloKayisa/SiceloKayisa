@@ -49,7 +49,7 @@ projects. The other important part about this is to also improve skills such as 
   
 ## 📬 Technical Tools and Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,mysql,stackoverflow,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,mysql,stackoverflow,git,vscode,github,tableau)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
