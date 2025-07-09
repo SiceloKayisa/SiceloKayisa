@@ -44,6 +44,8 @@ projects. The other important part about this is to also improve skills such as 
 
 ### Certifications
 
+* [Tableau Fundamentals](https://github.com/SiceloKayisa/DataCamp-Coursework/tree/main/Tableau%20Fundamentals)
+* [Associate Data Scientist with Python](https://github.com/SiceloKayisa/DataCamp-Coursework/tree/main/Associate%20Data%20Scientist%20with%20Python%20Career%20Track)
 * [Google Data Analytics Professional Certificate](https://github.com/SiceloKayisa/My-Certifications/blob/main/Google%20Data%20Analytics%20Professional%20Certificate.pdf)
 * [Data Analytics Essentials](https://github.com/SiceloKayisa/My-Certifications/blob/main/Data_Analytics_Essentials_Badge.pdf)
   
