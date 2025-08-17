@@ -26,7 +26,7 @@ hackathons so to have an idea and be exposed to real world
 projects. The other important part about this is to also improve skills such as communication,
  team collaboration and meeting deadlines.
 
-## Projects
+##🎯 Projects
 
 * [Movie Rental Duration Prediction using Regression Models](https://github.com/SiceloKayisa/My-Data-Science-and-Machine-Learning-Projects/tree/main/Movie%20Rental%20Duration%20Prediction)
 * [Book Recommendation Engine with KNearestNeighbors](https://github.com/SiceloKayisa/My-Data-Science-and-Machine-Learning-Projects/blob/main/Book%20Recommendation%20with%20KNearestNeighbors/README.md)
@@ -61,6 +61,7 @@ projects. The other important part about this is to also improve skills such as 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of
 technology together. 🚀
+
 
 
 
