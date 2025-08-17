@@ -53,7 +53,7 @@ projects. The other important part about this is to also improve skills such as 
   
 ## 📬 Technical Tools and Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,mysql,stackoverflow,git,vscode,github,tableau,keras)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,mysql,stackoverflow,git,vscode,github,tableau,tensorflow)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
@@ -61,6 +61,7 @@ projects. The other important part about this is to also improve skills such as 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of
 technology together. 🚀
+
 
 
 
