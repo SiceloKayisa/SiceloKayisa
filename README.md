@@ -1,6 +1,6 @@
 # Hi, I'm Sicelo Kayisa! 👋
 
-An aspiring Data Scientist with a passion for uncovering insights from data and
+Data enthusiast with a passion for uncovering insights from data and
 creating models to help businesses prepare for the future.
 
 ## 🚀 About Me
@@ -61,6 +61,7 @@ projects. The other important part about this is to also improve skills such as 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of
 technology together. 🚀
+
 
 
 
