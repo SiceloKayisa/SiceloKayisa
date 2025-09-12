@@ -47,11 +47,11 @@ projects. The other important part about this is to also improve skills such as 
 
 ### Certifications
 
-* [Machine Learning with Python](https://freecodecamp.org/certification/fcc0b81793b-27e3-4ebd-b0d2-f76d0ba9b847/machine-learning-with-python-v7)
-* [Tableau Fundamentals](https://github.com/SiceloKayisa/DataCamp-Coursework/tree/main/Tableau%20Fundamentals)
-* [Associate Data Scientist with Python](https://github.com/SiceloKayisa/DataCamp-Coursework/tree/main/Associate%20Data%20Scientist%20with%20Python%20Career%20Track)
-* [Google Data Analytics Professional Certificate](https://github.com/SiceloKayisa/My-Certifications/blob/main/Google%20Data%20Analytics%20Professional%20Certificate.pdf)
-* [Data Analytics Essentials](https://github.com/SiceloKayisa/My-Certifications/blob/main/Data_Analytics_Essentials_Badge.pdf)
+* [Machine Learning with Python | FreeCodeCamp](https://freecodecamp.org/certification/fcc0b81793b-27e3-4ebd-b0d2-f76d0ba9b847/machine-learning-with-python-v7)
+* [Tableau Fundamentals | DataCamp](https://github.com/SiceloKayisa/DataCamp-Coursework/tree/main/Tableau%20Fundamentals)
+* [Associate Data Scientist with Python | DataCamp](https://github.com/SiceloKayisa/DataCamp-Coursework/tree/main/Associate%20Data%20Scientist%20with%20Python%20Career%20Track)
+* [Google Data Analytics Professional Certificate | Coursera](https://github.com/SiceloKayisa/My-Certifications/blob/main/Google%20Data%20Analytics%20Professional%20Certificate.pdf)
+* [Data Analytics Essentials | Cisco](https://github.com/SiceloKayisa/My-Certifications/blob/main/Data_Analytics_Essentials_Badge.pdf)
   
 ## 📬 Technical Tools and Libraries
 
@@ -63,6 +63,7 @@ projects. The other important part about this is to also improve skills such as 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of
 technology together. 🚀
+
 
 
 
