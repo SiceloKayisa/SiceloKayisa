@@ -29,7 +29,8 @@ projects. The other important part about this is to also improve skills such as 
 ## 🎯 Projects
 
 * [Data Cleaning and Transformation in MySQL](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Data%20Cleaning%20and%20Transformation%20in%20MySQL%20Workbench)
- The primary goal of this project was to take raw, messy data from an e-commerce platform's transactional tables (customers_raw, orders_raw, products_raw) and transform it into a clean, well-structured format for analysis and reporting. The final clean tables are intended to serve as a reliable source of truth for business intelligence, marketing, and operational teams.
+
+  - The primary goal of this project was to take raw, messy data from an e-commerce platform's transactional tables (customers_raw, orders_raw, products_raw) and transform it into a clean, well-structured format for analysis and reporting. The final clean tables are intended to serve as a reliable source of truth for business intelligence, marketing, and operational teams.
  
 * [Movie Rental Duration Prediction using Regression Models](https://github.com/SiceloKayisa/My-Data-Science-and-Machine-Learning-Projects/tree/main/Movie%20Rental%20Duration%20Prediction)
 * [Book Recommendation Engine with KNearestNeighbors](https://github.com/SiceloKayisa/My-Data-Science-and-Machine-Learning-Projects/blob/main/Book%20Recommendation%20with%20KNearestNeighbors/README.md)
@@ -66,6 +67,7 @@ projects. The other important part about this is to also improve skills such as 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of
 technology together. 🚀
+
 
 
 
