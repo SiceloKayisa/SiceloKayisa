@@ -33,6 +33,8 @@ projects. The other important part about this is to also improve skills such as 
   - The primary goal of this project was to take raw, messy data from an e-commerce platform's transactional tables (customers_raw, orders_raw, products_raw) and transform it into a clean, well-structured format for analysis and reporting. The final clean tables are intended to serve as a reliable source of truth for business intelligence, marketing, and operational teams.
  
 * [Movie Rental Duration Prediction using Regression Models](https://github.com/SiceloKayisa/My-Data-Science-and-Machine-Learning-Projects/tree/main/Movie%20Rental%20Duration%20Prediction)
+   - This project focuses on predicting the duration of movie rentals using various machine learning regression models. By analyzing historical rental data, we aim to build a robust model that can accurately estimate how long a movie will be rented.
+     
 * [Book Recommendation Engine with KNearestNeighbors](https://github.com/SiceloKayisa/My-Data-Science-and-Machine-Learning-Projects/blob/main/Book%20Recommendation%20with%20KNearestNeighbors/README.md)
 * [Store Sales and Profit Analysis using Python](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Store%20Sales%20And%20Profit%20Analysis%20with%20Python)
 * [Case Study: Customer Churn Analysis for a Telecom Company in Excel](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Analyzing%20Customer%20Churn%20in%20Excel)
@@ -67,6 +69,7 @@ projects. The other important part about this is to also improve skills such as 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of
 technology together. 🚀
+
 
 
 
