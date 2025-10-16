@@ -33,7 +33,8 @@ projects. The other important part about this is to also improve skills such as 
 * [Book Recommendation Engine with KNearestNeighbors](https://github.com/SiceloKayisa/My-Data-Science-and-Machine-Learning-Projects/blob/main/Book%20Recommendation%20with%20KNearestNeighbors/README.md)
 * [Store Sales and Profit Analysis using Python](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Store%20Sales%20And%20Profit%20Analysis%20with%20Python)
 * [Case Study: Customer Churn Analysis for a Telecom Company in Excel](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Analyzing%20Customer%20Churn%20in%20Excel)
-* [Machine Learning for Sales Modeling with Linear Regression](https://github.com/SiceloKayisa/My-Data-Science-and-Machine-Learning-Projects/tree/main/Sales%20Predictive%20Modeling%20with%20Regression)
+* [E-Commerce Product Catalog and Inventory System in MySQL](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/E-Commerce%20Product%20Catalog%20and%20Inventory%20System)
+* [Small-Scale ERP System for Manufacturing & Inventory](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Small-Scale%20ERP%20System%20for%20Manufacturing%20%26%20Inventory)
 
 ## 🏆 Practical Experience
 
@@ -63,6 +64,7 @@ projects. The other important part about this is to also improve skills such as 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of
 technology together. 🚀
+
 
 
 
