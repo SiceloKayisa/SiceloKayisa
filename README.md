@@ -36,10 +36,23 @@ projects. The other important part about this is to also improve skills such as 
    - This project focuses on predicting the duration of movie rentals using various machine learning regression models. By analyzing historical rental data, we aim to build a robust model that can accurately estimate how long a movie will be rented.
      
 * [Book Recommendation Engine with KNearestNeighbors](https://github.com/SiceloKayisa/My-Data-Science-and-Machine-Learning-Projects/blob/main/Book%20Recommendation%20with%20KNearestNeighbors/README.md)
+   - NearestNeighbors from sklearn.neighbors was used in this project to develop a model that shows books that are similar to a given book. The Nearest Neighbors algorithm measures the distance to determine the “closeness” of instances. I created a function named get_recommends that takes a book title (from the dataset) as an argument and returns a list of 5 similar books with their distances from the book argument.
+
 * [Store Sales and Profit Analysis using Python](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Store%20Sales%20And%20Profit%20Analysis%20with%20Python)
+  - To analyse the performance of the retail store in terms of its sales and profit.
+  - To check which months did the store perform better.
+  - Which products seem to significantly contribute to more sales and profit for the store, and with that knowledge what are the recommendations.
+  - What can be done to the store to improve its sales and profit?
+   
 * [Case Study: Customer Churn Analysis for a Telecom Company in Excel](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Analyzing%20Customer%20Churn%20in%20Excel)
+  - The goal of this was to discover why customers are churning from the DataBel Telecom Company and recommend strategies that the telecom company can implement in order to reduce churning
+  
 * [E-Commerce Product Catalog and Inventory System in MySQL](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/E-Commerce%20Product%20Catalog%20and%20Inventory%20System)
+  - This project involved designing, implementing, and debugging a relational database for a complete e-commerce platform. The core goal was to create a robust and scalable database schema capable of handling product catalogues, customer information, orders, and inventory management within MySQL workbench.
+
 * [Small-Scale ERP System for Manufacturing & Inventory](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Small-Scale%20ERP%20System%20for%20Manufacturing%20%26%20Inventory)
+  - This project is a small-scale Enterprise Resource Planning (ERP) database system built with MySQL. It models the core operations of a manufacturing business, specifically focusing on the supply chain and production processes. The system manages raw materials, finished products, and production orders, all while maintaining strict data integrity and automating key business logic at the database level. This project is a strong demonstration of foundational database design, data modeling for business applications, and the implementation of advanced SQL features like stored procedures and triggers.
+
 
 ## 🏆 Practical Experience
 
@@ -69,6 +82,7 @@ projects. The other important part about this is to also improve skills such as 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of
 technology together. 🚀
+
 
 
 
