@@ -28,15 +28,15 @@ projects. The other important part about this is to also improve skills such as 
 
 ## 🎯 Projects
 
-* [Data Cleaning and Transformation in MySQL](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Data%20Cleaning%20and%20Transformation%20in%20MySQL%20Workbench)
-
-  - The primary goal of this project was to take raw, messy data from an e-commerce platform's transactional tables (customers_raw, orders_raw, products_raw) and transform it into a clean, well-structured format for analysis and reporting. The final clean tables are intended to serve as a reliable source of truth for business intelligence, marketing, and operational teams.
+* [Churn Predictive Model](https://github.com/SiceloKayisa/My-Data-Science-and-Machine-Learning-Projects/tree/main/Churn%20Prediction%20for%20Financial%20Institution)
+    - This project focuses on building a churn prediction model for a financial institution. Customer churn is a critical issue for businesses, as retaining existing customers is often more cost-effective than acquiring new ones. By identifying customers at high risk of churning, institutions can implement targeted retention strategies.
+    - This project contains a comprehensive Jupyter Notebook that covers the entire machine learning pipeline, from data acquisition and exploratory data analysis to data preprocessing, feature engineering, model building, and evaluation, strictly using the sklearn library.
  
 * [Movie Rental Duration Prediction using Regression Models](https://github.com/SiceloKayisa/My-Data-Science-and-Machine-Learning-Projects/tree/main/Movie%20Rental%20Duration%20Prediction)
    - This project focuses on predicting the duration of movie rentals using various machine learning regression models. By analyzing historical rental data, we aim to build a robust model that can accurately estimate how long a movie will be rented.
      
 * [Book Recommendation Engine with KNearestNeighbors](https://github.com/SiceloKayisa/My-Data-Science-and-Machine-Learning-Projects/blob/main/Book%20Recommendation%20with%20KNearestNeighbors/README.md)
-   - NearestNeighbors from sklearn.neighbors was used in this project to develop a model that shows books that are similar to a given book. The Nearest Neighbors algorithm measures the distance to determine the “closeness” of instances. I created a function named get_recommends that takes a book title (from the dataset) as an argument and returns a list of 5 similar books with their distances from the book argument.
+   - Utilized NearestNeighbors from sklearn.neighbors was used in this project to develop a model that shows books that are similar to a given book. The Nearest Neighbors algorithm measures the distance to determine the “closeness” of instances. I created a function named get_recommends that takes a book title (from the dataset) as an argument and returns a list of 5 similar books with their distances from the book argument.
 
 * [Store Sales and Profit Analysis using Python](https://github.com/SiceloKayisa/My-Data-Analytics-Projects/tree/main/Store%20Sales%20And%20Profit%20Analysis%20with%20Python)
   - To analyse the performance of the retail store in terms of its sales and profit.
@@ -82,6 +82,7 @@ projects. The other important part about this is to also improve skills such as 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of
 technology together. 🚀
+
 
 
 
