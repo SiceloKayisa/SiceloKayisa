@@ -5,7 +5,7 @@ creating models to help businesses prepare for the future.
 
 ## 🚀 About Me
 
-I'm a final year Mathematical Statistics student at the
+I'm a Mathematical Statistics graduate from the
 University of Pretoria.
 
 I'm fascinated by the potential of data science to uncover hidden patterns,
@@ -82,6 +82,7 @@ projects. The other important part about this is to also improve skills such as 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of
 technology together. 🚀
+
 
 
 
