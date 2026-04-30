@@ -65,7 +65,8 @@ projects. The other important part about this is to also improve skills such as 
 ## 🏆 Achievements
 
 ### Certifications
-*[Microsoft Power BI Data Analyst Associate (PL-300) ](https://learn.microsoft.com/api/credentials/share/en-us/SiceloKayisa-3408/8664A6321DE0121?sharingId=904CC1FC00408200)
+
+* [Microsoft Power BI Data Analyst Associate (PL-300) ](https://learn.microsoft.com/api/credentials/share/en-us/SiceloKayisa-3408/8664A6321DE0121?sharingId=904CC1FC00408200)
 * [Machine Learning with Python | FreeCodeCamp](https://freecodecamp.org/certification/fcc0b81793b-27e3-4ebd-b0d2-f76d0ba9b847/machine-learning-with-python-v7)
 * [Tableau Fundamentals | DataCamp](https://github.com/SiceloKayisa/DataCamp-Coursework/tree/main/Tableau%20Fundamentals)
 * [Associate Data Scientist with Python | DataCamp](https://github.com/SiceloKayisa/DataCamp-Coursework/tree/main/Associate%20Data%20Scientist%20with%20Python%20Career%20Track)
